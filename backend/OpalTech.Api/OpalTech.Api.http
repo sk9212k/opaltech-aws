@@ -1,0 +1,6 @@
+@OpalTech.Api_HostAddress = http://localhost:5075
+
+GET {{OpalTech.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
